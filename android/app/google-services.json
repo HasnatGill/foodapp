@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927828364634",
+    "project_id": "laa-jawab",
+    "storage_bucket": "laa-jawab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927828364634:android:49bff22cb1adffdfb43763",
+        "android_client_info": {
+          "package_name": "com.laajawab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927828364634-sli6228iv4b0ujns27fhvibhsvta9ql9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyRwGzxSWdMnJ67sKw7dtl0gQHyjpLFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927828364634-sli6228iv4b0ujns27fhvibhsvta9ql9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
